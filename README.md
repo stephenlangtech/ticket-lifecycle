@@ -25,25 +25,34 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0yjALrc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OEmRXCQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Ryu, one of our customers, is opening a new ticket under the Business Critical Outage help topic. The issue reported is that the CRM software is down. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BNXolkz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Agents can view live tickets in the Agent Panel. Queue managers will assign priority tickets to the appropriate agents and ensure proper SLAs are applied.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/4FvPpMN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In this example, the ticket's priority is set to Emergency due to its potential impact on a critical business area. The SLA plan has been updated accordingly, and the ticket is assigned to a top-level technician. In some ticketing systems, customers can set their own SLA plans.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/rNycELQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The ticket was closed after identifying the root cause as personal networking issues on the customer’s end. The status was set to Resolved, and an internal note was added to inform Steve Lang that the customer was upset. It emphasized handling the situation with urgency and empathy during follow-up.
 </p>
 <br />
